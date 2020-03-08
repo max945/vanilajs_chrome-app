@@ -1,0 +1,26 @@
+#title{
+    background-color: yellow;
+  }
+  
+  body{
+    background-color: skyblue;
+  }
+  .btn{
+    cursor:pointer;
+  }
+
+  body{
+    color:#34495e;
+  }
+
+  .clicked{
+    color: #7f8c8d;
+  }
+
+  .form,
+  .greetings{
+    display:none;
+  }
+  .showing{
+    display: block;
+  }
